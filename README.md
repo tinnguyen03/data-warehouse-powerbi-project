@@ -1,40 +1,43 @@
-# data-warehouse-powerbi-project
-Project Overview
+# Data Warehouse Application for Business Analytics
 
-This project aims to develop a Data Warehouse Application that transforms raw business data into meaningful insights through interactive dashboards. The system collects data from Excel/CSV files, processes and stores it in a centralized Data Warehouse using MySQL, and visualizes business performance through Power BI dashboards.
+## Project Overview
+This project aims to develop a Data Warehouse Application that transforms raw business data into meaningful insights through interactive dashboards. The system collects data from Excel/CSV files, processes and stores data in a centralized Data Warehouse using MySQL, and visualizes business performance through Power BI dashboards.
 
-Objectives
-Build a centralized Data Warehouse from multiple business data sources
-Process and clean raw data using Python
-Store and manage data using MySQL
-Create interactive dashboards for business analysis
-Support data-driven decision-making
-Workflow
+## Objectives
+- Build a centralized Data Warehouse from multiple business data sources
+- Process and clean raw data using Python
+- Store and manage data using MySQL
+- Create interactive dashboards for business analysis
+- Support data-driven decision-making
 
-Excel/CSV Data Sources
-↓
-Data Processing (Python)
-↓
-MySQL Data Warehouse
-↓
-Power BI Dashboard
-↓
-Business Insights
+## Workflow
+Excel/CSV Data Sources  
+↓  
+Data Processing (Python)  
+↓  
+MySQL Data Warehouse  
+↓  
+Power BI Dashboard  
+↓  
+Business Insights  
 
-Technologies Used
-Excel – Raw data source
-Python – Data cleaning and preprocessing
-MySQL – Data Warehouse storage
-SQL – Data querying and transformation
-Power BI – Dashboard visualization
-Dashboards
+## Technologies Used
+- **Excel** – Raw data source
+- **Python** – Data cleaning and preprocessing
+- **MySQL** – Data Warehouse storage
+- **SQL** – Data querying and transformation
+- **Power BI** – Dashboard visualization
 
+## Dashboards
 The project includes several dashboards:
 
-Executive Dashboard
-Product Detail Dashboard
-Customer Detail Dashboard
-Employee Detail Dashboard
-Team Members
+- Executive Dashboard
+- Product Detail Dashboard
+- Customer Detail Dashboard
+- Employee Detail Dashboard
 
+## Team Members
 Group 3 – Information System Management Final Project
+
+## Instructor
+Ho Long Van – Ho Chi Minh City International University
